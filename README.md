@@ -1,5 +1,5 @@
 # Topic:
-Strategic Market Entry Analysis for a Snack Shop Using Power BI and Excel
+Strategic Market Entry Analysis and Business Model Development for a Snack Shop Using Power BI and Excel
 
 # Project Overview:
 In this project, I led a comprehensive strategic market entry analysis for a snack shop in Boring Road, Patna, leveraging my skills in Power BI and Excel. The objective was to identify profitable snack offerings, optimize product positioning, and develop a robust business strategy to ensure the venture's success in a competitive market.
