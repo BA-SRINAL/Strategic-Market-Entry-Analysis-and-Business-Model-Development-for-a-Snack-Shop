@@ -1,1 +1,3 @@
 # Strategic-Market-Entry-Analysis-and-Business-Model-Development-for-a-Snack-Shop
+
+This project showcases a comprehensive market entry strategy for a snack shop in Patna, utilizing Power BI for data visualization and Excel for data collection and analysis. The project involved conducting a competitor analysis, identifying market gaps, and aligning product offerings with customer preferences. A detailed Business Requirement Document (BRD) and a strategic presentation were created to guide stakeholders through data-driven decisions, ensuring a successful and impactful market entry. This project embodies a commitment to leveraging data for strategic business growth, with emphasis on innovation and impact.
